@@ -1,6 +1,6 @@
-(ns dominion.core-test
+(ns canon.core-test
   (:require [clojure.test :refer :all]
-            [dominion.resources :refer :all]))
+            [canon.core :refer :all]))
 
 #_(deftest a-test
   (testing "FIXME, I fail."
